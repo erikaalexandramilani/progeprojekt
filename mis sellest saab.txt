@@ -1,0 +1,3 @@
+Ping pongi laadne mäng, kus mängijad saavad üles alla liikuda ja peavad palli lööma teise väravasse vms.
+Mängijad saavad oma nimed sisestada ja lõpus mäng näitab, kes võitis ja laseb võidulaulu.
+Mängija ikoonid on vaja valida (Hillari ja Trump)
