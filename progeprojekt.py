@@ -14,7 +14,7 @@ clock = pygame.time.Clock()
 background_image = pygame.image.load("square-starfield.jpg").convert()
 pygame.mixer.music.load("senorita.mp3")
 pygame.mixer.music.play()
-tick(0)
+
  
 # terve mängu tsükkel
 while not done:
